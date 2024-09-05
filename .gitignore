@@ -1,0 +1,81 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (React specific)
+.cache/
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/
+
+# Grunt intermediate storage (React specific)
+.grunt/
+
+# Bower dependency directory
+bower_components/
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Temporary folders and build outputs
+tmp/
+temp/
+dist/
+out/
+build/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+.DS_Store
+*.sublime-workspace
+
+# Mac system files
+*.DS_Store
+
+# SASS cache
+.sass-cache/
+
+# Optional Changelog
+CHANGELOG.md
+
+# Yarn integrity file
+.yarn-integrity
+
+# PM2 logs and files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Debug files
+debug.log

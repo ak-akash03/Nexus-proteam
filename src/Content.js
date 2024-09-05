@@ -58,7 +58,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "HELLO AK",
+    title: "NEXUS BY PROTEAM",
     firstName: "PRO",
     LastName: "TEAM",
     btnText: "Connect ",
@@ -143,7 +143,7 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "[ PROTEAM ] is a dynamic and innovative organization dedicated to [mention your company's core purpose or mission]. Founded in [year], we have rapidly grown into a leading provider of [mention your company's products or services].",
+          "Nexus is a dynamic and innovative organization dedicated to [mention your company's core purpose or mission]. Founded in [year], we have rapidly grown into a leading provider of [mention your company's products or services].",
         // img: avatar1,
         // name: "JOHN DOE",
       },

@@ -34,7 +34,7 @@ const Hero = () => {
                 className={`flex items-center w-80 gap-5
             ${i === 1 && " flex-row-reverse text-right"}  `}
               >
-                <h3>{content.count}</h3>
+                {/* <h3>{content.count}</h3> */}
                 <p>{content.text}</p>
               </div>
             ))}

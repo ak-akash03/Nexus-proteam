@@ -32,7 +32,7 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">proteam</h6>
-        <p>codeaprogram © All CopyRights Reserved 2024</p>
+        <p>ProUnicorn © All CopyRights Reserved 2024</p>
       </footer>
     </div>
   );

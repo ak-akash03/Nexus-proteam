@@ -58,19 +58,21 @@ export const content = {
     },
   ],
   hero: {
-    title: "NEXUS BY PROTEAM",
+    title: "PRO-UNICORN",
     firstName: "PRO",
     LastName: "TEAM",
     btnText: "Connect ",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        // count: "8+",
+        // text: "Years of Experinse in Web development",
+        text: "Pro-Unicorn is a tech start-up by Akash Rathod. Laxman Chavan and Rahul Chavan are the co-founder of Pro-Unicorn. ",
       },
       {
-        count: "20+",
-        text: "Projects Worked in my career",
+        // count: "20+",
+        // text: "Projects Worked in my career",
+        text: "At Pro-Unicorn, we are driven to lead a new era of innovation for startups that are lean, capital-efficient, and technology-driven. Our focus is on solving fundamental challenges, not just incremental ones, to ensure long-term, sustainable growth. With a multi-product approach, Pro-Unicorn is set to revolutionize industries and shape the future of entrepreneurship.",
       },
     ],
   },
@@ -143,7 +145,7 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "Nexus is a dynamic and innovative organization dedicated to [mention your company's core purpose or mission]. Founded in [year], we have rapidly grown into a leading provider of [mention your company's products or services].",
+          "Pro-Unicorn is a dynamic and innovative organization dedicated to [mention your company's core purpose or mission]. Founded in [year], we have rapidly grown into a leading provider of [mention your company's products or services].",
         // img: avatar1,
         // name: "JOHN DOE",
       },
@@ -197,7 +199,7 @@ export const content = {
         link: "https://wa.me/8010586321",
       },
       {
-        text: "codeaprogram",
+        text: "ProUnicorn",
         icon: BsInstagram,
         link: "https://www.instagram.com/codeaprogram/",
       },
